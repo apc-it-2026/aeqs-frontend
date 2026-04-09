@@ -15,7 +15,10 @@ namespace SJeMES_QCM
 {
     public partial class APP_Compliance_Print_Edit : MaterialForm
     {
-        string guid = string.Empty;
+        string guid = string.Empty; /// <summary>
+        /// 123
+        /// </summary>
+        /// <param name="_Program"></param>
         public APP_Compliance_Print_Edit(SJeMES_Framework.Class.ClientClass _Program)
         {
             InitializeComponent();
