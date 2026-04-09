@@ -22,7 +22,7 @@ namespace SJeMES_IQC
             data = dt;
             SJeMES_Framework.Common.UIHelper.UIUpdate(this.Name, this, Program.Client, "", Program.Client.Language);
         }
-
+        //Tesing Git by Ashok 
         private void ColorNotice_Upload_View_Load(object sender, EventArgs e)   
         {
             if (data.Rows.Count > 0)
