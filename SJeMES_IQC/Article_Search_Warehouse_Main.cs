@@ -12,7 +12,7 @@ using SJeMES_Control_Library;
 using SJeMES_Framework.WebAPI;
 namespace SJeMES_IQC
 {
-    // Em mandala // Inkem mandala 
+    // Git commit testing 
     public partial class Article_Search_Warehouse_Main : Form
     {
         public Article_Search_Warehouse_Main()
