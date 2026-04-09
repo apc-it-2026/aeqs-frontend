@@ -15,17 +15,15 @@ namespace SJeMES_QCM
 {
     public partial class APP_Compliance_Print_Edit : MaterialForm
     {
-        string guid = string.Empty; /// <summary>
-        /// 123
-        /// </summary>
-        /// <param name="_Program"></param>
+        string guid = string.Empty; 
+
         public APP_Compliance_Print_Edit(SJeMES_Framework.Class.ClientClass _Program)
         {
             InitializeComponent();
             Program.Client = _Program;
             SJeMES_Framework.Common.UIHelper.UIUpdate(this.Name, this, Program.Client, "", Program.Client.Language);
         }
-
+        //Test Commit
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
