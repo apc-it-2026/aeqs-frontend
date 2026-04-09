@@ -47,13 +47,10 @@
       <HintPath>..\..\..\MES800\SJeMES Launcher\client\AutocompleteMenu.dll</HintPath>
     </Reference>
     <Reference Include="FastReport">
-      <HintPath>..\..\..\..\library\FastReport.dll</HintPath>
+      <HintPath>..\..\..\..\TFS_Source_Code\AEQS\Client\SJeMES_IQC\bin\Debug\FastReport.dll</HintPath>
     </Reference>
     <Reference Include="FastReport.Bars">
-      <HintPath>..\..\..\..\library\FastReport.Bars.dll</HintPath>
-    </Reference>
-    <Reference Include="itextsharp">
-      <HintPath>C:\Users\it-software19\Desktop\Itertext\itextsharp.dll</HintPath>
+      <HintPath>..\..\..\..\TFS_Source_Code\AEQS\Client\SJeMES_IQC\bin\Debug\FastReport.Bars.dll</HintPath>
     </Reference>
     <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

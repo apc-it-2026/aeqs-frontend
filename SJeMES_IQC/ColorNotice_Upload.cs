@@ -23,6 +23,8 @@ namespace SJeMES_IQC
         public string file_name = string.Empty;// 文件上传 返回的名称
         public string file_guid = string.Empty;// 文件上传 返回的guid 
 
+
+        //Adding Comment to test Git Commit on 20260409
         public ColorNotice_Upload()
         {
             InitializeComponent();

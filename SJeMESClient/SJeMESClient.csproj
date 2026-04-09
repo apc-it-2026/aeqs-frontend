@@ -73,7 +73,7 @@
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\WebApi\AEQS_P88API\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\..\TFS_Source_Code\AEQS\Client\SJeMES_AQL\bin\Debug\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Production_Material_Issue">
       <HintPath>..\Production_Material_Issue\bin\Debug\Production_Material_Issue.dll</HintPath>
